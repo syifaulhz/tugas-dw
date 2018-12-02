@@ -1,0 +1,36 @@
+.judul {background-color:#000D5D; padding: 30px 90px; color:white;
+        font-size: 24px; font-family:sans-serif
+      }
+      .header {background-color:#000D5D; padding: 1px 1px; color:white;
+        font-size: 16px; text-align: center}
+      .nav {background-color:#000F9E; padding: 1px; 
+              color:white; text-align:center}
+      a {color:white; font-size: 16px;}
+      .link {background-color:#000F9E; padding: 10px; 
+              color:white; text-align:left;}
+      .colom {background: #0026FF;
+	float: left;
+       	height: 100%;
+	width: 15%;
+        color:white;
+      text-align: center; 
+     }
+       .colom2 {background: #0026FF;
+	float: left;
+	height: 100%;
+        width: 15%;
+        color:white;}
+       a {color:white; font-size: 24px;}
+       .content {background: #D1D7FF;
+	float: left;
+	height: 100%;
+	width: 70%;
+        color:black;
+        font-size: 24px;
+       text-align:justify;
+       font-family:serif
+      }
+       .footer {background-color:black; padding: 25px ; 
+              color:white; text-align:center; font-size: 18px;}
+       .cc {text-align:center; color:red; font-size: 24px;
+           }
